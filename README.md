@@ -70,35 +70,21 @@
 
 <div align="center">
 
-### 🎤 Interfaz Principal
-```
-┌─────────────────────────────────┐
-│  🎵 Audio Capture Widget       │
-├─────────────────────────────────┤
-│                                 │
-│         🎤 [GRABAR]            │
-│                                 │
-│    ⚙️ [CONFIG]  📊 [STATUS]    │
-│                                 │
-└─────────────────────────────────┘
-```
+### � **Ienterfaz Principal & Panel de Configuración**
+![Interfaz de Configuración](Imgapp.jpg)
+*Panel de configuración completo con selección de dispositivos, fuentes de grabación y configuración de webhook para n8n*
 
-### ⚙️ Panel de Configuración
-```
-┌─────────────────────────────────────────┐
-│  🎤 Micrófono: [Dispositivo ▼] [Test] ▶│
-│  🔊 Sistema:   [VB-Cable ▼]    [Test] ▶│
-│                                         │
-│  🎯 Fuentes de Grabación:              │
-│  ☑️ 🎤 Grabar Micrófono                │
-│  ☑️ 🔊 Grabar Sistema                  │
-│                                         │
-│  🌐 Webhook: [URL____________]          │
-│  ⏱️ Chunks:  [4 segundos ▼]            │
-│                                         │
-│  [💾 Guardar] [❌ Cerrar App]          │
-└─────────────────────────────────────────┘
-```
+### 🎤 **Widget Flotante Minimalista**
+![Widget Flotante](Imgwi.jpg)
+*Interfaz flotante compacta con controles esenciales: Grabar, Config y Status - Siempre visible durante el trabajo*
+
+**🎨 Características Visuales:**
+- ✨ **Interfaz oscura profesional** - Diseño moderno que no cansa la vista
+- 🎯 **Controles intuitivos** - Botones grandes y accesibles para uso rápido
+- 🔄 **Animaciones suaves** - Transiciones elegantes entre estados
+- 📱 **Diseño arrastrable** - Posiciona el widget donde lo necesites
+- ⚙️ **Panel expandible** - Configuración completa sin saturar la interfaz
+- 🎛️ **Configuración visual** - Selección de dispositivos con pruebas en tiempo real
 
 </div>
 
