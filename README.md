@@ -1,4 +1,4 @@
-# 🎵 Audio Capture Widget
+﻿# ðŸŽµ Audio Capture Widget
 
 <div align="center">
 
@@ -9,56 +9,56 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg?style=for-the-badge&logo=windows)](https://github.com/Pedroru101/audioAiV2)
 
-**🚀 Aplicación profesional de grabación de audio simultánea 🎤🔊**
+**ðŸš€ AplicaciÃ³n profesional de grabación de audio simultÃ¡nea ðŸŽ¤ðŸ”Š**
 
 *Interfaz flotante minimalista con funcionalidades avanzadas*
 
-[📥 Descargar](#-instalación) • [📖 Documentación](#-guía-de-uso) • [🐛 Reportar Bug](https://github.com/Pedroru101/audioAiV2/issues) • [💡 Sugerir Feature](https://github.com/Pedroru101/audioAiV2/discussions)
+[ðŸ“¥ Descargar](#-instalaciÃ³n) â€¢ [ðŸ“– DocumentaciÃ³n](#-guÃ­a-de-uso) â€¢ [ðŸ› Reportar Bug](https://github.com/Pedroru101/audioAiV2/issues) â€¢ [ðŸ’¡ Sugerir Feature](https://github.com/Pedroru101/audioAiV2/discussions)
 
 </div>
 
 ---
 
-## ✨ Características Principales
+## âœ¨ CaracterÃ­sticas Principales
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎤 **Grabación Avanzada**
-- 🎯 **Grabación Simultánea**: Micrófono + Sistema
-- 🔀 **Selección Flexible**: Solo mic, solo sistema, o ambos
-- 📊 **Calidad Profesional**: 44.1kHz, 16-bit
-- 🔄 **Mezcla Inteligente**: Normalización automática
+### ðŸŽ¤ **grabación Avanzada**
+- ðŸŽ¯ **grabación SimultÃ¡nea**: MicrÃ³fono + Sistema
+- ðŸ”€ **selección Flexible**: Solo mic, solo sistema, o ambos
+- ðŸ“Š **Calidad Profesional**: 44.1kHz, 16-bit
+- ðŸ”„ **Mezcla Inteligente**: NormalizaciÃ³n automÃ¡tica
 
 </td>
 <td width="50%">
 
-### 🎨 **Interfaz Moderna**
-- 🪟 **Ventana Flotante**: Siempre visible
-- 🎭 **Minimalista**: Diseño limpio y elegante
-- 🖱️ **Arrastrable**: Posiciona donde quieras
-- ⚙️ **Panel Animado**: Configuración intuitiva
+### ðŸŽ¨ **Interfaz Moderna**
+- ðŸªŸ **Ventana Flotante**: Siempre visible
+- ðŸŽ­ **Minimalista**: DiseÃ±o limpio y elegante
+- ðŸ–±ï¸ **Arrastrable**: Posiciona donde quieras
+- âš™ï¸ **Panel Animado**: Configuración intuitiva
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔧 **Funcionalidades Pro**
-- 🧪 **Prueba de Dispositivos**: Test de 3 segundos
-- ▶️ **Reproducción Instantánea**: Escucha tus pruebas
-- 📦 **Chunks Configurables**: 2-300 segundos
-- 🌐 **Webhook Integration**: n8n compatible
+### ðŸ”§ **Funcionalidades Pro**
+- ðŸ§ª **Prueba de Dispositivos**: Test de 3 segundos
+- â–¶ï¸ **ReproducciÃ³n InstantÃ¡nea**: Escucha tus pruebas
+- ðŸ“¦ **Chunks Configurables**: 2-300 segundos
+- ðŸŒ **Webhook Integration**: n8n compatible
 
 </td>
 <td width="50%">
 
-### 🚀 **Distribución**
-- 📱 **Ejecutable Standalone**: Sin Python requerido
-- 🔒 **Seguro**: Sin dependencias externas
-- ⚡ **Rápido**: Inicio instantáneo
-- 🎯 **Optimizado**: Tamaño mínimo
+### ðŸš€ **DistribuciÃ³n**
+- ðŸ“± **Ejecutable Standalone**: Sin Python requerido
+- ðŸ”’ **Seguro**: Sin dependencias externas
+- âš¡ **RÃ¡pido**: Inicio instantÃ¡neo
+- ðŸŽ¯ **Optimizado**: TamaÃ±o mÃ­nimo
 
 </td>
 </tr>
@@ -66,77 +66,77 @@
 
 ---
 
-## 🎬 Demo Visual
+## ðŸŽ¬ Demo Visual
 
 <div align="center">
 
-### � **Ienterfaz Principal & Panel de Configuración**
+### 🎯 **Interfaz Principal & Panel de Configuración**
 ![Interfaz de Configuración](Imgapp.jpg)
-*Panel de configuración completo con selección de dispositivos, fuentes de grabación y configuración de webhook para n8n*
+*Panel de Configuración completo con selección de dispositivos, fuentes de grabación y Configuración de webhook para n8n*
 
-### 🎤 **Widget Flotante Minimalista**
+### ðŸŽ¤ **Widget Flotante Minimalista**
 ![Widget Flotante](Imgwi.jpg)
 *Interfaz flotante compacta con controles esenciales: Grabar, Config y Status - Siempre visible durante el trabajo*
 
-**🎨 Características Visuales:**
-- ✨ **Interfaz oscura profesional** - Diseño moderno que no cansa la vista
-- 🎯 **Controles intuitivos** - Botones grandes y accesibles para uso rápido
-- 🔄 **Animaciones suaves** - Transiciones elegantes entre estados
-- 📱 **Diseño arrastrable** - Posiciona el widget donde lo necesites
-- ⚙️ **Panel expandible** - Configuración completa sin saturar la interfaz
-- 🎛️ **Configuración visual** - Selección de dispositivos con pruebas en tiempo real
+**ðŸŽ¨ CaracterÃ­sticas Visuales:**
+- âœ¨ **Interfaz oscura profesional** - DiseÃ±o moderno que no cansa la vista
+- ðŸŽ¯ **Controles intuitivos** - Botones grandes y accesibles para uso rÃ¡pido
+- ðŸ”„ **Animaciones suaves** - Transiciones elegantes entre estados
+- ðŸ“± **DiseÃ±o arrastrable** - Posiciona el widget donde lo necesites
+- âš™ï¸ **Panel expandible** - Configuración completa sin saturar la interfaz
+- ðŸŽ›ï¸ **Configuración visual** - selección de dispositivos con pruebas en tiempo real
 
 </div>
 
 ---
 
-## 📥 Instalación
+## ðŸ“¥ InstalaciÃ³n
 
-### 🚀 Opción 1: Ejecutable (Recomendado)
+### ðŸš€ OpciÃ³n 1: Ejecutable (Recomendado)
 
 <div align="center">
 
-**🎯 ¡La forma más fácil!**
+**ðŸŽ¯ Â¡La forma mÃ¡s fÃ¡cil!**
 
-[![Download](https://img.shields.io/badge/📥_Descargar-Ejecutable-success?style=for-the-badge&logo=download)](https://github.com/Pedroru101/audioAiV2/releases)
+[![Download](https://img.shields.io/badge/ðŸ“¥_Descargar-Ejecutable-success?style=for-the-badge&logo=download)](https://github.com/Pedroru101/audioAiV2/releases)
 
 </div>
 
-1. 📥 **Descargar** el [último release](https://github.com/Pedroru101/audioAiV2/releases)
-2. 🖱️ **Ejecutar** `AudioCaptureWidget.exe`
-3. 🎉 **¡Listo para usar!**
+1. ðŸ“¥ **Descargar** el [Ãºltimo release](https://github.com/Pedroru101/audioAiV2/releases)
+2. ðŸ–±ï¸ **Ejecutar** `AudioCaptureWidget.exe`
+3. ðŸŽ‰ **Â¡Listo para usar!**
 
-### 🛠️ Opción 2: Desde Código Fuente
+### ðŸ› ï¸ OpciÃ³n 2: Desde CÃ³digo Fuente
 
 <details>
-<summary>👨‍💻 <strong>Para Desarrolladores</strong> (Click para expandir)</summary>
+<summary>ðŸ‘¨â€ðŸ’» <strong>Para Desarrolladores</strong> (Click para expandir)</summary>
 
-#### 1️⃣ Clonar el repositorio
+#### 1ï¸âƒ£ Clonar el repositorio
 ```bash
 git clone https://github.com/Pedroru101/audioAiV2.git
 cd audioAiV2
 ```
 
-#### 2️⃣ Crear entorno virtual
+#### 2ï¸âƒ£ Crear entorno virtual
 ```bash
 python -m venv venv
 ```
 
-#### 3️⃣ Activar entorno virtual
+#### 3ï¸âƒ£ Activar entorno virtual
 ```bash
-# 🪟 Windows
+# ðŸªŸ Windows
 .\venv\Scripts\activate
 
-# 🐧 Linux/Mac
+# ðŸ§ Linux/Mac
 source venv/bin/activate
 ```
 
-#### 4️⃣ Instalar dependencias
+#### 4ï¸âƒ£ Instalar dependencias
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 5️⃣ Ejecutar la aplicación
+#### 5ï¸âƒ£ Ejecutar la aplicaciÃ³n
 ```bash
 python main.py
 ```
@@ -145,124 +145,124 @@ python main.py
 
 ---
 
-## 🎯 Guía de Uso
+## ðŸŽ¯ GuÃ­a de Uso
 
-### 🚀 Inicio Rápido
+### ðŸš€ Inicio RÃ¡pido
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🚀 Ejecutar App] --> B[⚙️ Configurar]
-    B --> C[🎯 Seleccionar Fuentes]
-    C --> D[🧪 Probar Dispositivos]
-    D --> E[🎤 Grabar]
-    E --> F[🛑 Detener]
-    F --> G[📁 Archivos Listos]
+    A[ðŸš€ Ejecutar App] --> B[âš™ï¸ Configurar]
+    B --> C[ðŸŽ¯ Seleccionar Fuentes]
+    C --> D[ðŸ§ª Probar Dispositivos]
+    D --> E[ðŸŽ¤ Grabar]
+    E --> F[ðŸ›‘ Detener]
+    F --> G[ðŸ“ Archivos Listos]
 ```
 
 </div>
 
-#### 1️⃣ **Ejecutar**
-- 🖱️ Doble clic en `AudioCaptureWidget.exe`
-- ⚡ O ejecuta `python main.py`
+#### 1ï¸âƒ£ **Ejecutar**
+- ðŸ–±ï¸ Doble clic en `AudioCaptureWidget.exe`
+- âš¡ O ejecuta `python main.py`
 
-#### 2️⃣ **Configurar**
-- ⚙️ Presiona el botón de configuración
-- 🎨 Se abre el panel animado
+#### 2ï¸âƒ£ **Configurar**
+- âš™ï¸ Presiona el botÃ³n de Configuración
+- ðŸŽ¨ Se abre el panel animado
 
-#### 3️⃣ **Seleccionar Fuentes**
-Elige qué grabar según tus necesidades:
+#### 3ï¸âƒ£ **Seleccionar Fuentes**
+Elige quÃ© grabar segÃºn tus necesidades:
 
 <table>
 <tr>
 <td align="center">
 
-**🎤 Solo Micrófono**
+**ðŸŽ¤ Solo MicrÃ³fono**
 ```
-☑️ 🎤 Grabar Micrófono
-☐ 🔊 Grabar Sistema
+â˜‘ï¸ ðŸŽ¤ Grabar MicrÃ³fono
+â˜ ðŸ”Š Grabar Sistema
 ```
 *Perfecto para podcasts, voces*
 
 </td>
 <td align="center">
 
-**🔊 Solo Sistema**
+**ðŸ”Š Solo Sistema**
 ```
-☐ 🎤 Grabar Micrófono  
-☑️ 🔊 Grabar Sistema
+â˜ ðŸŽ¤ Grabar MicrÃ³fono  
+â˜‘ï¸ ðŸ”Š Grabar Sistema
 ```
-*Ideal para música, videos*
+*Ideal para mÃºsica, videos*
 
 </td>
 <td align="center">
 
-**🎵 Ambos (Recomendado)**
+**ðŸŽµ Ambos (Recomendado)**
 ```
-☑️ 🎤 Grabar Micrófono
-☑️ 🔊 Grabar Sistema
+â˜‘ï¸ ðŸŽ¤ Grabar MicrÃ³fono
+â˜‘ï¸ ðŸ”Š Grabar Sistema
 ```
-*Grabación completa*
+*grabación completa*
 
 </td>
 </tr>
 </table>
 
-#### 4️⃣ **Probar Dispositivos**
-- 🧪 Usa los botones **"Probar"** para test de 3 segundos
-- ▶️ Presiona **"▶"** para escuchar las grabaciones
-- ✅ Verifica que todo funcione correctamente
+#### 4ï¸âƒ£ **Probar Dispositivos**
+- ðŸ§ª Usa los botones **"Probar"** para test de 3 segundos
+- â–¶ï¸ Presiona **"â–¶"** para escuchar las grabaciones
+- âœ… Verifica que todo funcione correctamente
 
-#### 5️⃣ **Grabar**
-- 🎤 Presiona el botón de **GRABAR**
-- 🛑 Aparece el botón de **DETENER**
-- 📊 Observa el estado en tiempo real
+#### 5ï¸âƒ£ **Grabar**
+- ðŸŽ¤ Presiona el botÃ³n de **GRABAR**
+- ðŸ›‘ Aparece el botÃ³n de **DETENER**
+- ðŸ“Š Observa el estado en tiempo real
 
 ---
 
-## ⚙️ Configuración Avanzada
+## âš™ï¸ Configuración Avanzada
 
-### 🎤 Dispositivos de Audio
+### ðŸŽ¤ Dispositivos de Audio
 
 <div align="center">
 
-| Tipo | Recomendación | Descripción |
+| Tipo | RecomendaciÃ³n | DescripciÃ³n |
 |------|---------------|-------------|
-| 🎤 **Micrófono** | Cualquier dispositivo estándar | WASAPI o MME preferido |
-| 🔊 **Sistema** | VB-Audio Cable | Para captura de aplicaciones |
-| 🎧 **Monitoreo** | Auriculares/Altavoces | Para escuchar pruebas |
+| ðŸŽ¤ **MicrÃ³fono** | Cualquier dispositivo estÃ¡ndar | WASAPI o MME preferido |
+| ðŸ”Š **Sistema** | VB-Audio Cable | Para captura de aplicaciones |
+| ðŸŽ§ **Monitoreo** | Auriculares/Altavoces | Para escuchar pruebas |
 
 </div>
 
-### 🔊 Configuración de Sistema Audio
+### ðŸ”Š Configuración de Sistema Audio
 
 <details>
-<summary>🛠️ <strong>Setup VB-Audio Cable</strong> (Recomendado)</summary>
+<summary>ðŸ› ï¸ <strong>Setup VB-Audio Cable</strong> (Recomendado)</summary>
 
-#### 📥 Instalación
-1. 🌐 Descargar [VB-Audio Cable](https://vb-audio.com/Cable/)
-2. 🔧 Instalar como administrador
-3. 🔄 Reiniciar el sistema
+#### ðŸ“¥ InstalaciÃ³n
+1. ðŸŒ Descargar [VB-Audio Cable](https://vb-audio.com/Cable/)
+2. ðŸ”§ Instalar como administrador
+3. ðŸ”„ Reiniciar el sistema
 
-#### ⚙️ Configuración
-1. 🎵 **En tus aplicaciones** (Spotify, YouTube, etc.):
+#### âš™ï¸ Configuración
+1. ðŸŽµ **En tus aplicaciones** (Spotify, YouTube, etc.):
    - Seleccionar **"CABLE Input"** como salida de audio
-2. 🎤 **En Audio Capture Widget**:
+2. ðŸŽ¤ **En Audio Capture Widget**:
    - Seleccionar **"CABLE Output"** como dispositivo de sistema
 
-#### ✅ Verificación
+#### âœ… VerificaciÃ³n
 ```
-Aplicación → CABLE Input → CABLE Output → Audio Capture Widget
+AplicaciÃ³n â†’ CABLE Input â†’ CABLE Output â†’ Audio Capture Widget
 ```
 
 </details>
 
-### 🌐 Webhook Configuration
+### ðŸŒ Webhook Configuration
 
 <div align="center">
 
-**🔗 Integración con n8n y otros servicios**
+**ðŸ”— IntegraciÃ³n con n8n y otros servicios**
 
 </div>
 
@@ -276,44 +276,49 @@ Aplicación → CABLE Input → CABLE Output → Audio Capture Widget
 
 ---
 
-## 📁 Estructura del Proyecto
+## ðŸ“ Estructura del Proyecto
 
 <div align="center">
 
 ```
-🎵 Audio Capture Widget/
-├── 🚀 main.py                 # Aplicación principal
-├── 🎤 audio_handler.py        # Motor de grabación
-├── 🧪 audio_device_tester.py  # Prueba de dispositivos
-├── 🔧 utils.py               # Utilidades
-├── 🏗️ build.py               # Script de construcción
-├── 📦 create_distribution.py # Creador de paquetes
-├── ⚙️ config.json            # Configuración
-├── 📋 requirements.txt       # Dependencias
-├── 🎨 assets/               # Recursos
-│   ├── 🖼️ icons/           # Iconos SVG
-│   └── 🎨 styles/          # Estilos CSS
-├── 📁 temp_audio/          # Archivos temporales
-└── 💾 grabaciones/         # Grabaciones finales
+ðŸŽµ Audio Capture Widget/
+â”œâ”€â”€ ðŸš€ main.py                 # AplicaciÃ³n principal
+â”œâ”€â”€ ðŸŽ¤ audio_handler.py        # Motor de grabación
+â”œâ”€â”€ ðŸ§ª audio_device_tester.py  # Prueba de dispositivos
+â”œâ”€â”€ ðŸ”§ utils.py                # Utilidades
+â”œâ”€â”€ ðŸ—ï¸ build.py                # Script de construcciÃ³n
+â”œâ”€â”€ ðŸ“¦ create_distribution.py  # Creador de paquetes
+â”œâ”€â”€ âš™ï¸ config.json             # Configuración
+â”œâ”€â”€ ðŸ“‹ requirements.txt        # Dependencias
+â”œâ”€â”€ ðŸ“– CONTRIBUTING.md         # GuÃ­a de contribuciÃ³n
+â”œâ”€â”€ ðŸ“„ LICENSE                 # Licencia MIT
+â”œâ”€â”€ ðŸ–¼ï¸ Imgapp.jpg              # Captura del panel de Configuración
+â”œâ”€â”€ ï¿½ï¸ Imgwi.jpog               # Captura del widget flotante
+â”œâ”€â”€ ðŸŽ¨ assets/                 # Recursos (si existe)
+â”œâ”€â”€ ðŸ“ grabaciones/            # Grabaciones finales
+â””â”€â”€ ðŸ“ .github/                # Configuración de GitHub
+    â”œâ”€â”€ ðŸ”§ workflows/          # GitHub Actions
+    â”œâ”€â”€ ðŸ“‹ ISSUE_TEMPLATE/     # Templates de issues
+    â””â”€â”€ ðŸ‘¥ CODEOWNERS          # Propietarios del cÃ³digo
 ```
 
 </div>
 
 ---
 
-## 🔧 Configuración JSON
+## ðŸ”§ Configuración JSON
 
 <details>
-<summary>⚙️ <strong>Archivo config.json</strong></summary>
+<summary>âš™ï¸ <strong>Archivo config.json</strong></summary>
 
 ```json
 {
-  "input_device": 2,           // 🎤 ID del micrófono
-  "output_device": 1,          // 🔊 ID del dispositivo de sistema
-  "webhook_url": "http://...", // 🌐 URL del webhook
-  "chunk_duration": 4,         // ⏱️ Duración en segundos
-  "record_microphone": true,   // 🎤 Habilitar micrófono
-  "record_system": true        // 🔊 Habilitar sistema
+  "input_device": 2,           // ðŸŽ¤ ID del micrÃ³fono
+  "output_device": 1,          // ðŸ”Š ID del dispositivo de sistema
+  "webhook_url": "http://...", // ðŸŒ URL del webhook
+  "chunk_duration": 4,         // â±ï¸ DuraciÃ³n en segundos
+  "record_microphone": true,   // ðŸŽ¤ Habilitar micrÃ³fono
+  "record_system": true        // ðŸ”Š Habilitar sistema
 }
 ```
 
@@ -321,69 +326,69 @@ Aplicación → CABLE Input → CABLE Output → Audio Capture Widget
 
 ---
 
-## 🆘 Solución de Problemas
+## ðŸ†˜ SoluciÃ³n de Problemas
 
 <div align="center">
 
-### 🚨 Problemas Comunes y Soluciones
+### ðŸš¨ Problemas Comunes y Soluciones
 
 </div>
 
 <details>
-<summary>🔊 <strong>No se detecta audio del sistema</strong></summary>
+<summary>ðŸ”Š <strong>No se detecta audio del sistema</strong></summary>
 
-#### 🔍 Diagnóstico
-- ❌ VB-Audio Cable no instalado
-- ❌ Configuración incorrecta de aplicaciones
-- ❌ Dispositivo incorrecto seleccionado
+#### ðŸ” DiagnÃ³stico
+- âŒ VB-Audio Cable no instalado
+- âŒ Configuración incorrecta de aplicaciones
+- âŒ Dispositivo incorrecto seleccionado
 
-#### ✅ Solución
-1. 📥 Instalar [VB-Audio Cable](https://vb-audio.com/Cable/)
-2. ⚙️ Configurar aplicaciones para usar **"CABLE Input"**
-3. 🎯 Seleccionar **"CABLE Output"** en la aplicación
-4. 🧪 Probar con el botón **"Test"**
-
-</details>
-
-<details>
-<summary>⚠️ <strong>Errores de "Input Overflow"</strong></summary>
-
-#### 🔍 Síntomas
-- ❌ Audio cortado o distorsionado
-- ❌ Mensajes de overflow en logs
-- ❌ Grabación interrumpida
-
-#### ✅ Solución
-1. 🔄 Usar dispositivos **MME** en lugar de **WASAPI**
-2. ⏱️ Aumentar `chunk_duration` a **8-10 segundos**
-3. ❌ Cerrar otras aplicaciones de audio
-4. 🔧 Reducir calidad de audio si es necesario
+#### âœ… SoluciÃ³n
+1. ðŸ“¥ Instalar [VB-Audio Cable](https://vb-audio.com/Cable/)
+2. âš™ï¸ Configurar aplicaciones para usar **"CABLE Input"**
+3. ðŸŽ¯ Seleccionar **"CABLE Output"** en la aplicaciÃ³n
+4. ðŸ§ª Probar con el botÃ³n **"Test"**
 
 </details>
 
 <details>
-<summary>🛑 <strong>Botón de parar no aparece</strong></summary>
+<summary>âš ï¸ <strong>Errores de "Input Overflow"</strong></summary>
 
-#### 🔍 Posibles Causas
-- ❌ Configuración no guardada
-- ❌ Dispositivos no seleccionados
-- ❌ Error en inicialización
+#### ðŸ” SÃ­ntomas
+- âŒ Audio cortado o distorsionado
+- âŒ Mensajes de overflow en logs
+- âŒ grabación interrumpida
 
-#### ✅ Solución
-1. ✅ Verificar que la configuración esté guardada
-2. 🔄 Reiniciar la aplicación
-3. 🧪 Probar dispositivos antes de grabar
-4. 📋 Revisar logs para errores
+#### âœ… SoluciÃ³n
+1. ðŸ”„ Usar dispositivos **MME** en lugar de **WASAPI**
+2. â±ï¸ Aumentar `chunk_duration` a **8-10 segundos**
+3. âŒ Cerrar otras aplicaciones de audio
+4. ðŸ”§ Reducir calidad de audio si es necesario
+
+</details>
+
+<details>
+<summary>ðŸ›‘ <strong>BotÃ³n de parar no aparece</strong></summary>
+
+#### ðŸ” Posibles Causas
+- âŒ Configuración no guardada
+- âŒ Dispositivos no seleccionados
+- âŒ Error en inicializaciÃ³n
+
+#### âœ… SoluciÃ³n
+1. âœ… Verificar que la Configuración estÃ© guardada
+2. ðŸ”„ Reiniciar la aplicaciÃ³n
+3. ðŸ§ª Probar dispositivos antes de grabar
+4. ðŸ“‹ Revisar logs para errores
 
 </details>
 
 ---
 
-## 📦 Dependencias
+## ðŸ“¦ Dependencias
 
 <div align="center">
 
-### 🛠️ Stack Tecnológico
+### ðŸ› ï¸ Stack TecnolÃ³gico
 
 </div>
 
@@ -391,25 +396,25 @@ Aplicación → CABLE Input → CABLE Output → Audio Capture Widget
 <tr>
 <td align="center">
 
-**🖼️ Interfaz**
-- 🎨 **PySide6**: Framework GUI
-- 🎭 **Qt**: Widgets y animaciones
+**ðŸ–¼ï¸ Interfaz**
+- ðŸŽ¨ **PySide6**: Framework GUI
+- ðŸŽ­ **Qt**: Widgets y animaciones
 
 </td>
 <td align="center">
 
-**🎵 Audio**
-- 🎤 **sounddevice**: Captura de audio
-- 🔢 **numpy**: Procesamiento numérico
-- 📊 **scipy**: Análisis de audio
+**ðŸŽµ Audio**
+- ðŸŽ¤ **sounddevice**: Captura de audio
+- ðŸ”¢ **numpy**: Procesamiento numÃ©rico
+- ðŸ“Š **scipy**: AnÃ¡lisis de audio
 
 </td>
 <td align="center">
 
-**🔧 Utilidades**
-- 🎵 **pydub**: Manipulación de audio
-- 🎼 **lameenc**: Codificación MP3
-- 🌐 **requests**: Comunicación webhook
+**ðŸ”§ Utilidades**
+- ðŸŽµ **pydub**: ManipulaciÃ³n de audio
+- ðŸŽ¼ **lameenc**: CodificaciÃ³n MP3
+- ðŸŒ **requests**: ComunicaciÃ³n webhook
 
 </td>
 </tr>
@@ -417,35 +422,35 @@ Aplicación → CABLE Input → CABLE Output → Audio Capture Widget
 
 ---
 
-## 🎵 Formatos Soportados
+## ðŸŽµ Formatos Soportados
 
 <div align="center">
 
 | Formato | Calidad | Uso Recomendado |
 |---------|---------|-----------------|
-| 🎵 **WAV** | 44.1kHz, 16-bit | Máxima calidad |
-| 🎼 **MP3** | 128kbps | Distribución web |
-| 🔊 **Mono/Estéreo** | Configurable | Según necesidad |
+| ðŸŽµ **WAV** | 44.1kHz, 16-bit | MÃ¡xima calidad |
+| ðŸŽ¼ **MP3** | 128kbps | DistribuciÃ³n web |
+| ðŸ”Š **Mono/EstÃ©reo** | Configurable | SegÃºn necesidad |
 
 </div>
 
 ---
 
-## 🔄 Flujo de Trabajo
+## ðŸ”„ Flujo de Trabajo
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[🚀 Inicio] --> B[⚙️ Configuración]
-    B --> C[🧪 Prueba de Dispositivos]
-    C --> D[🎯 Selección de Fuentes]
-    D --> E[🎤 Grabación]
-    E --> F[📊 Procesamiento]
-    F --> G[🔄 Mezcla Inteligente]
-    G --> H[📦 Chunks Automáticos]
-    H --> I[🌐 Envío Webhook]
-    I --> J[💾 Almacenamiento Local]
+    A[ðŸš€ Inicio] --> B[âš™ï¸ Configuración]
+    B --> C[ðŸ§ª Prueba de Dispositivos]
+    C --> D[ðŸŽ¯ selección de Fuentes]
+    D --> E[ðŸŽ¤ grabación]
+    E --> F[ðŸ“Š Procesamiento]
+    F --> G[ðŸ”„ Mezcla Inteligente]
+    G --> H[ðŸ“¦ Chunks AutomÃ¡ticos]
+    H --> I[ðŸŒ EnvÃ­o Webhook]
+    I --> J[ðŸ’¾ Almacenamiento Local]
     
     style A fill:#e1f5fe
     style E fill:#f3e5f5
@@ -456,40 +461,40 @@ graph TD
 
 ---
 
-## 🏗️ Construcción del Ejecutable
+## ðŸ—ï¸ ConstrucciÃ³n del Ejecutable
 
 <details>
-<summary>🛠️ <strong>Build Your Own</strong></summary>
+<summary>ðŸ› ï¸ <strong>Build Your Own</strong></summary>
 
-### 📋 Prerrequisitos
+### ðŸ“‹ Prerrequisitos
 ```bash
 pip install PyInstaller
 ```
 
-### 🚀 Construcción
+### ðŸš€ ConstrucciÃ³n
 ```bash
-# 🏗️ Construir ejecutable
+# ðŸ—ï¸ Construir ejecutable
 python build.py
 
-# 📦 Crear paquete de distribución
+# ðŸ“¦ Crear paquete de distribuciÃ³n
 python create_distribution.py
 ```
 
-### 📁 Resultado
+### ðŸ“ Resultado
 ```
 dist/
-└── 🎵 AudioCaptureWidget.exe  # ✨ Tu ejecutable listo
+â””â”€â”€ ðŸŽµ AudioCaptureWidget.exe  # âœ¨ Tu ejecutable listo
 ```
 
 </details>
 
 ---
 
-## 🤝 Contribuir
+## ðŸ¤ Contribuir
 
 <div align="center">
 
-**🌟 ¡Las contribuciones son bienvenidas! 🌟**
+**ðŸŒŸ Â¡Las contribuciones son bienvenidas! ðŸŒŸ**
 
 [![Contributors](https://img.shields.io/github/contributors/Pedroru101/audioAiV2?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/Pedroru101/audioAiV2?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/network/members)
@@ -497,21 +502,21 @@ dist/
 
 </div>
 
-### 🚀 Cómo Contribuir
+### ðŸš€ CÃ³mo Contribuir
 
-1. 🍴 **Fork** el proyecto
-2. 🌿 **Crea** una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. 💾 **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 **Push** a la rama (`git push origin feature/AmazingFeature`)
-5. 🔄 **Abre** un Pull Request
+1. ðŸ´ **Fork** el proyecto
+2. ðŸŒ¿ **Crea** una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. ðŸ’¾ **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. ðŸ“¤ **Push** a la rama (`git push origin feature/AmazingFeature`)
+5. ðŸ”„ **Abre** un Pull Request
 
-### 🎯 Áreas de Contribución
+### ðŸŽ¯ Ãreas de ContribuciÃ³n
 
 <table>
 <tr>
 <td align="center">
 
-**🐛 Bug Fixes**
+**ðŸ› Bug Fixes**
 - Reportar bugs
 - Corregir errores
 - Mejorar estabilidad
@@ -519,7 +524,7 @@ dist/
 </td>
 <td align="center">
 
-**✨ Features**
+**âœ¨ Features**
 - Nuevas funcionalidades
 - Mejoras de UI/UX
 - Optimizaciones
@@ -527,7 +532,7 @@ dist/
 </td>
 <td align="center">
 
-**📚 Documentación**
+**ðŸ“š DocumentaciÃ³n**
 - Mejorar README
 - Tutoriales
 - Ejemplos de uso
@@ -538,60 +543,60 @@ dist/
 
 ---
 
-## 📝 Changelog
+## ðŸ“ Changelog
 
 <details>
-<summary>📋 <strong>Historial de Versiones</strong></summary>
+<summary>ðŸ“‹ <strong>Historial de Versiones</strong></summary>
 
-### 🎉 v1.0.0 (2024-07-22)
-- ✨ **Nueva**: Selección flexible de fuentes de grabación
-- 🧪 **Nueva**: Prueba independiente de dispositivos con reproducción
-- 🔊 **Mejorado**: Soporte optimizado para VB-Audio Cable
-- 📦 **Nuevo**: Empaquetado en ejecutable standalone
-- 🧹 **Mejorado**: Proyecto limpio y optimizado
-- 📚 **Nueva**: Documentación completa y visual
-- 🎨 **Mejorado**: Interfaz más intuitiva y responsive
-- 🔧 **Nuevo**: Sistema de configuración avanzado
+### ðŸŽ‰ v1.0.0 (2024-07-22)
+- âœ¨ **Nueva**: selección flexible de fuentes de grabación
+- ðŸ§ª **Nueva**: Prueba independiente de dispositivos con reproducciÃ³n
+- ðŸ”Š **Mejorado**: Soporte optimizado para VB-Audio Cable
+- ðŸ“¦ **Nuevo**: Empaquetado en ejecutable standalone
+- ðŸ§¹ **Mejorado**: Proyecto limpio y optimizado
+- ðŸ“š **Nueva**: DocumentaciÃ³n completa y visual
+- ðŸŽ¨ **Mejorado**: Interfaz mÃ¡s intuitiva y responsive
+- ðŸ”§ **Nuevo**: Sistema de Configuración avanzado
 
 </details>
 
 ---
 
-## 🐛 Problemas Conocidos
+## ðŸ› Problemas Conocidos
 
 <div align="center">
 
-### ⚠️ Limitaciones Actuales
+### âš ï¸ Limitaciones Actuales
 
 </div>
 
-| Problema | Descripción | Solución |
+| Problema | DescripciÃ³n | SoluciÃ³n |
 |----------|-------------|----------|
-| 🛡️ **Windows Defender** | Puede marcar el ejecutable como sospechoso | Falso positivo - Agregar excepción |
-| 🎤 **Permisos de Micrófono** | Windows puede solicitar permisos | Permitir acceso la primera vez |
-| 🔊 **VB-Audio** | Requiere instalación separada | Descargar desde sitio oficial |
+| ðŸ›¡ï¸ **Windows Defender** | Puede marcar el ejecutable como sospechoso | Falso positivo - Agregar excepciÃ³n |
+| ðŸŽ¤ **Permisos de MicrÃ³fono** | Windows puede solicitar permisos | Permitir acceso la primera vez |
+| ðŸ”Š **VB-Audio** | Requiere instalaciÃ³n separada | Descargar desde sitio oficial |
 
 ---
 
-## 📄 Licencia
+## ðŸ“„ Licencia
 
 <div align="center">
 
-**📜 MIT License**
+**ðŸ“œ MIT License**
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-*Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles*
+*Este proyecto estÃ¡ bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles*
 
 </div>
 
 ---
 
-## 🙏 Agradecimientos
+## ðŸ™ Agradecimientos
 
 <div align="center">
 
-### 💝 Gracias a estas increíbles tecnologías
+### ðŸ’ Gracias a estas increÃ­bles tecnologÃ­as
 
 </div>
 
@@ -599,25 +604,25 @@ dist/
 <tr>
 <td align="center">
 
-**🎨 UI Framework**
+**ðŸŽ¨ UI Framework**
 [![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt)](https://pypi.org/project/PySide6/)
 
 </td>
 <td align="center">
 
-**🎵 Audio Engine**
+**ðŸŽµ Audio Engine**
 [![sounddevice](https://img.shields.io/badge/sounddevice-FF6B6B?style=for-the-badge&logo=python)](https://pypi.org/project/sounddevice/)
 
 </td>
 <td align="center">
 
-**🔊 Virtual Audio**
+**ðŸ”Š Virtual Audio**
 [![VB-Audio](https://img.shields.io/badge/VB--Audio-4ECDC4?style=for-the-badge)](https://vb-audio.com/)
 
 </td>
 <td align="center">
 
-**📦 Packaging**
+**ðŸ“¦ Packaging**
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-45B7D1?style=for-the-badge&logo=python)](https://pyinstaller.org/)
 
 </td>
@@ -626,43 +631,44 @@ dist/
 
 ---
 
-## 📞 Soporte y Contacto
+## ðŸ“ž Soporte y Contacto
 
 <div align="center">
 
-### 🆘 ¿Necesitas Ayuda?
+### ðŸ†˜ Â¿Necesitas Ayuda?
 
-[![Issues](https://img.shields.io/badge/🐛_Reportar_Bug-Issues-red?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/issues)
-[![Discussions](https://img.shields.io/badge/💬_Discusiones-Discussions-blue?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/discussions)
-[![Email](https://img.shields.io/badge/📧_Contacto-GitHub-green?style=for-the-badge)](https://github.com/Pedroru101)
+[![Issues](https://img.shields.io/badge/ðŸ›_Reportar_Bug-Issues-red?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/issues)
+[![Discussions](https://img.shields.io/badge/ðŸ’¬_Discusiones-Discussions-blue?style=for-the-badge)](https://github.com/Pedroru101/audioAiV2/discussions)
+[![Email](https://img.shields.io/badge/ðŸ“§_Contacto-GitHub-green?style=for-the-badge)](https://github.com/Pedroru101)
 
 </div>
 
-### 🎯 Canales de Soporte
+### ðŸŽ¯ Canales de Soporte
 
-- 🐛 **Bugs**: [GitHub Issues](https://github.com/Pedroru101/audioAiV2/issues)
-- 💬 **Preguntas**: [GitHub Discussions](https://github.com/Pedroru101/audioAiV2/discussions)
-- 📧 **Contacto**: A través de GitHub
-- 📚 **Wiki**: Documentación extendida (próximamente)
+- ðŸ› **Bugs**: [GitHub Issues](https://github.com/Pedroru101/audioAiV2/issues)
+- ðŸ’¬ **Preguntas**: [GitHub Discussions](https://github.com/Pedroru101/audioAiV2/discussions)
+- ðŸ“§ **Contacto**: A travÃ©s de GitHub
+- ðŸ“š **Wiki**: DocumentaciÃ³n extendida (prÃ³ximamente)
 
 ---
 
 <div align="center">
 
-## 🌟 ¡Dale una Estrella!
+## ðŸŒŸ Â¡Dale una Estrella!
 
-**Si te gusta este proyecto, ¡no olvides darle una estrella!** ⭐
+**Si te gusta este proyecto, Â¡no olvides darle una estrella!** â­
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Pedroru101/audioAiV2&type=Date)](https://star-history.com/#Pedroru101/audioAiV2&Date)
 
 ---
 
-### 🎵 **Desarrollado con ❤️ para la comunidad de audio** 🎵
+### ðŸŽµ **Desarrollado con â¤ï¸ para la comunidad de audio** ðŸŽµ
 
-**🚀 Audio Capture Widget - Donde la tecnología se encuentra con la creatividad 🎨**
+**ðŸš€ Audio Capture Widget - Donde la tecnologÃ­a se encuentra con la creatividad ðŸŽ¨**
 
 ---
 
-*⚡ Hecho con Python • 🎨 Diseñado para Windows • 🌟 Open Source Forever*
+*âš¡ Hecho con Python â€¢ ðŸŽ¨ DiseÃ±ado para Windows â€¢ ðŸŒŸ Open Source Forever*
 
 </div>
+
