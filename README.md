@@ -94,29 +94,7 @@ graph LR
 
 ---
 
-## 🎬 Demo Visual
 
-<div align="center">
-
-### 🎯 **Interfaz Principal & Panel de Configuración**
-![Interfaz de Configuración](Imgapp.jpg)
-*Panel de configuración completo con selección de dispositivos, fuentes de grabación y configuración de webhook para n8n*
-
-### 🎤 **Widget Flotante Minimalista**
-![Widget Flotante](Imgwi.jpg)
-*Interfaz flotante compacta con controles esenciales: Grabar, Config y Status - Siempre visible durante el trabajo*
-
-**🎨 Características Visuales:**
-- ✨ **Interfaz oscura profesional** - Diseño moderno que no cansa la vista
-- 🎯 **Controles intuitivos** - Botones grandes y accesibles para uso rápido
-- 🔄 **Animaciones suaves** - Transiciones elegantes entre estados
-- 📱 **Diseño arrastrable** - Posiciona el widget donde lo necesites
-- ⚙️ **Panel expandible** - Configuración completa sin saturar la interfaz
-- 🎛️ **Configuración visual** - Selección de dispositivos con pruebas en tiempo real
-
-</div>
-
----
 
 ## 📥 Instalación
 
@@ -354,35 +332,7 @@ python main.py
 
 ---
 
-## 📁 Estructura del Proyecto
 
-<div align="center">
-
-```
-🎵 Audio Capture Widget/
-├── 🚀 main.py                 # Aplicación principal
-├── 🎤 audio_handler.py        # Motor de grabación
-├── 🧪 audio_device_tester.py  # Prueba de dispositivos
-├── 🔧 utils.py                # Utilidades
-├── 🏗️ build.py                # Script de construcción
-├── 📦 create_distribution.py  # Creador de paquetes
-├── ⚙️ config.json             # Configuración
-├── 📋 requirements.txt        # Dependencias
-├── 📖 CONTRIBUTING.md         # Guía de contribución
-├── 📄 LICENSE                 # Licencia MIT
-├── 🖼️ Imgapp.jpg              # Captura del panel de configuración
-├── 🖼️ Imgwi.jpg               # Captura del widget flotante
-├── 🎨 assets/                 # Recursos (si existe)
-├── 📁 grabaciones/            # Grabaciones finales
-└── 📁 .github/                # Configuración de GitHub
-    ├── 🔧 workflows/          # GitHub Actions
-    ├── 📋 ISSUE_TEMPLATE/     # Templates de issues
-    └── 👥 CODEOWNERS          # Propietarios del código
-```
-
-</div>
-
----
 
 ## 🔄 Flujo de Trabajo Completo
 
