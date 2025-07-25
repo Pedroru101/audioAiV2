@@ -1,0 +1,9 @@
+PySide6>=6.7.0
+sounddevice>=0.4.6
+pydub>=0.25.1
+numpy>=1.23.5
+lameenc>=1.7.1
+requests>=2.32.4
+scipy>=1.13.1
+soundcard>=0.4.4
+soundfile>=0.12.1

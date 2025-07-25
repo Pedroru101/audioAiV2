@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Audio files temporales
+temp_audio/
+audio_test/
+*.log
+
+# Configuración temporal
+config_temp.json
+config_backup.json
+*.tmp
+*.bak
+
+# Distribución
+AudioCaptureWidget_Distribution/
+AudioCaptureWidget_v*.zip
+distribution/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+venv/
+env/
+ENV/

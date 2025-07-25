@@ -1,0 +1,6 @@
+{
+  "input_device": 2,
+  "output_device": 19,
+  "webhook_url": "http://localhost:5678/webhook-test/audio.ai",
+  "chunk_duration": 4
+}

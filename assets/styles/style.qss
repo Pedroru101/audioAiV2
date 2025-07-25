@@ -1,0 +1,58 @@
+/* Minimal dark style for floating widget */
+
+QWidget {
+    background: transparent;
+    color: #F0F0F0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px;
+}
+
+#MainWidget {
+    background-color: rgba(30, 32, 36, 220);
+    border-radius: 15px;
+    border: 1px solid #222;
+}
+
+QPushButton {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 0px;
+}
+
+QPushButton:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+QPushButton:pressed {
+    background-color: #1a4a7a;
+}
+QPushButton#SettingsButton {
+    background-color: rgba(60, 60, 60, 200);
+    border-radius: 16px;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 32px;
+    max-height: 32px;
+    padding: 0;
+}
+QPushButton#SettingsButton:pressed {
+    background-color: #444;
+}
+
+#ConfigPanel {
+    background-color: rgba(36, 38, 42, 240);
+    border-radius: 12px;
+    border: 1px solid #333;
+}
+
+QComboBox, QLineEdit, QSpinBox {
+    background: #23242a;
+    color: #f0f0f0;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 4px 8px;
+}
+QLabel {
+    color: #bbb;
+}
