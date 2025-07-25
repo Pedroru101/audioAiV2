@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-windows:
+  build:
     runs-on: windows-latest
     
     steps:
@@ -35,7 +35,7 @@ jobs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: AudioCaptureWidget-Windows
+        name: audio-capture-widget
         path: |
           dist/AudioCaptureWidget.exe
           AudioCaptureWidget_Distribution/
