@@ -1,0 +1,13 @@
+# Global rule - Pedroru101 owns everything
+* @Pedroru101
+
+# Core application files require review
+*.py @Pedroru101
+README.md @Pedroru101
+requirements.txt @Pedroru101
+config.json @Pedroru101
+
+# Build and distribution files
+build.py @Pedroru101
+create_distribution.py @Pedroru101
+.github/workflows/ @Pedroru101
